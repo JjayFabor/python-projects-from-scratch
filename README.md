@@ -25,7 +25,7 @@ This repository serves as a structured 21-day challenge to:
 ### Week 1: Fundamentals (Beginner)
 
 - [x] Number Guessing Game
-- [ ] CLI Calculator
+- [x] CLI Calculator
 - [ ] File-Based To-Do List
 - [ ] Dice Roller
 - [ ] Password Generator
