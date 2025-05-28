@@ -26,7 +26,7 @@ This repository serves as a structured 21-day challenge to:
 
 - [x] Number Guessing Game
 - [x] CLI Calculator
-- [ ] File-Based To-Do List
+- [x] File-Based To-Do List
 - [ ] Dice Roller
 - [ ] Password Generator
 - [ ] Static Currency Converter
