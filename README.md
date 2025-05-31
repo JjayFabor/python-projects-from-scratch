@@ -29,7 +29,7 @@ This repository serves as a structured 21-day challenge to:
 - [x] File-Based To-Do List
 - [x] Dice Roller
 - [x] Password Generator
-- [ ] Static Currency Converter
+- [x] Static Currency Converter
 - [ ] Quiz App
 
 ### Week 2: Intermediate Projects
